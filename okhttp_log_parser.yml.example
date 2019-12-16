@@ -1,0 +1,4 @@
+json_paths: 
+  - restaurant.id
+  - orderNo
+  - orderUuid
